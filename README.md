@@ -1,4 +1,4 @@
-# Rapport d'Enseignement d'Approfondissement : Statistique Haute Fréquence et Microstructure des Marchés
+# Rapport initialisation à la recherche : Statistique Haute Fréquence et Microstructure des Marchés
 
 ## Présentation
 Ce projet rassemble le rapport de recherche ainsi que les codes associés à l'étude de divers modèles utilisés pour analyser les dynamiques de prix transactionnels sur les marchés financiers à haute fréquence.
